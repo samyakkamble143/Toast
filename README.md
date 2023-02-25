@@ -18,5 +18,6 @@ Simple Toast Library
 	}
 
 ```
+## Feedback
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+If you have any feedback, please reach out to us at arrowwould@gmail.com
